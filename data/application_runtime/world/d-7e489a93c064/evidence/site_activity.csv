@@ -1,0 +1,4 @@
+entry_id,recorded_date,location,record_kind,observation,author
+D1,2026-08-13,"1437 Alder Court, Suite C",DRYING_DELIVERY,Truck BL-21 delivered extraction and drying equipment; service ticket BL-710194,BlueLine dispatcher
+D2,2026-08-15,"1437 Alder Court, Suite C",MONITORING,Crew recorded moisture readings at the wet perimeter; equipment remained at site.,BlueLine technician
+D3,2026-08-17,"1437 Alder Court, Suite C",DRYING_COLLECTION,Truck BL-21 collected equipment against service ticket BL-710194,BlueLine dispatcher

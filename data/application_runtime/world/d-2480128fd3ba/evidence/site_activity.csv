@@ -1,0 +1,8 @@
+entry_id,recorded_date,location,record_kind,observation,author
+F1,2026-08-21,Diagnostic room,FIELD_OBSERVATION,Wall bases: wet core at chase return. Ceiling above counter retained,Naomi Brooks
+F2,2026-08-21,Staff passage,FIELD_OBSERVATION,Painted ceiling strip: dry finish at camera opening. Opening path marked A,Naomi Brooks
+F3,2026-08-21,Chase return,FIELD_OBSERVATION,Fixed millwork panel: sound but blocks tool access. Detach and reinstate,Naomi Brooks
+F4,2026-08-21,Counter recess,FIELD_OBSERVATION,Socket boxes and plinth: water deposits and swelling. Two boxes isolated,Naomi Brooks
+D1,2026-08-15,"1471 Alder Court, Suite E",DRYING_DELIVERY,Truck BL-21 delivered extraction and drying equipment; service ticket BL-710388,BlueLine dispatcher
+D2,2026-08-17,"1471 Alder Court, Suite E",MONITORING,Crew recorded moisture readings at the wet perimeter; equipment remained at site.,BlueLine technician
+D3,2026-08-19,"1471 Alder Court, Suite E",DRYING_COLLECTION,Truck BL-21 collected equipment against service ticket BL-710388,BlueLine dispatcher

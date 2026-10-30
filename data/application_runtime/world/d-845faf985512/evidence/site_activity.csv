@@ -1,0 +1,8 @@
+entry_id,recorded_date,location,record_kind,observation,author
+F1,2026-08-18,Sterilization,FIELD_OBSERVATION,Gypsum at sink return: soft paper and wet core. Rear bay dry above 900 mm,Harlan Rowe
+F2,2026-08-18,Rear corridor,FIELD_OBSERVATION,Vinyl plank joints: raised ends and adhesive release. Front threshold firmly bonded,Harlan Rowe
+F3,2026-08-18,Utility closet,FIELD_OBSERVATION,Cabinet plinth: split rear panel. Countertop retained,Harlan Rowe
+F4,2026-08-18,Reception,FIELD_OBSERVATION,Painted partition: dry control sample. No finish removal marked,Harlan Rowe
+D1,2026-08-12,"1420 Alder Court, Suite B",DRYING_DELIVERY,Truck BL-21 delivered extraction and drying equipment; service ticket BL-710097,BlueLine dispatcher
+D2,2026-08-14,"1420 Alder Court, Suite B",MONITORING,Crew recorded moisture readings at the wet perimeter; equipment remained at site.,BlueLine technician
+D3,2026-08-16,"1420 Alder Court, Suite B",DRYING_COLLECTION,Truck BL-21 collected equipment against service ticket BL-710097,BlueLine dispatcher

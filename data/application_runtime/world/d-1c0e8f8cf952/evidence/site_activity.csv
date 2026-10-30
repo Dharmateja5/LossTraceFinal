@@ -1,0 +1,8 @@
+entry_id,recorded_date,location,record_kind,observation,author
+F1,2026-08-30,Wash-up island,FIELD_OBSERVATION,Connector bay and base panel: split panel around fixing. Waste trap intact,Elliot Chen
+F2,2026-08-30,Fabrication bench,FIELD_OBSERVATION,Plinths and socket strips: swelling and water tracks. Work surfaces retained,Elliot Chen
+F3,2026-08-30,Polishing approach,FIELD_OBSERVATION,Vinyl end joints: lifted joints over wet backing. Removal route follows benches,Elliot Chen
+F4,2026-08-30,Finishing bench,FIELD_OBSERVATION,Dry comparison opening: flat joints and no tide mark. Portable tools relocated here,Elliot Chen
+D1,2026-08-24,"1624 Alder Court, Suite D",DRYING_DELIVERY,Truck BL-21 delivered extraction and drying equipment; service ticket BL-711261,BlueLine dispatcher
+D2,2026-08-26,"1624 Alder Court, Suite D",MONITORING,Crew recorded moisture readings at the wet perimeter; equipment remained at site.,BlueLine technician
+D3,2026-08-28,"1624 Alder Court, Suite D",DRYING_COLLECTION,Truck BL-21 collected equipment against service ticket BL-711261,BlueLine dispatcher

@@ -1,0 +1,8 @@
+entry_id,recorded_date,location,record_kind,observation,author
+F1,2026-08-22,North storage,FIELD_OBSERVATION,Wall paper behind shelving: patchy dark growth on wet backing. Contained work zone north,Owen Patel
+F2,2026-08-22,South storage,FIELD_OBSERVATION,Lower perimeter lining: wet core and visible surface growth. Contained work zone south,Owen Patel
+F3,2026-08-22,Central aisle,FIELD_OBSERVATION,Floor under pallet stands: firm bonded control area. Retained coating,Owen Patel
+F4,2026-08-22,Dividing wall,FIELD_OBSERVATION,Exposed masonry above track: dry face and secure brackets. Shelving brackets retained,Owen Patel
+R1,2026-08-21,North storage,CONTAINMENT,North enclosure installed behind shelving. Air machine and sealed waste route N.,Environmental foreman
+R2,2026-08-21,South storage,CONTAINMENT,South perimeter enclosure installed. Separate air machine and waste route S.,Environmental foreman
+R3,2026-08-25,North and south storage,COMPLETION,Both work zones dismantled following clearance of their separate removal areas.,Environmental foreman

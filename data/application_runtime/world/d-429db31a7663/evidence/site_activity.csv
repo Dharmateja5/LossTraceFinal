@@ -1,0 +1,8 @@
+entry_id,recorded_date,location,record_kind,observation,author
+F1,2026-08-31,Service area,FIELD_OBSERVATION,Wall bases and tee bay: blistered paint and wet core. Clean studs above water line,Naomi Brooks
+F2,2026-08-31,Return passage,FIELD_OBSERVATION,Floor edge: detached bond near equipment recess. Dry break at reception transition,Naomi Brooks
+F3,2026-08-31,Equipment recess,FIELD_OBSERVATION,Sockets and side panel: water entry and swollen edge. Existing equipment footprint,Naomi Brooks
+F4,2026-08-31,Public reception,FIELD_OBSERVATION,Protected floor control: firm bond at transition. Dry feed retained,Naomi Brooks
+D1,2026-08-25,"1641 Alder Court, Suite E",DRYING_DELIVERY,Truck BL-21 delivered extraction and drying equipment; service ticket BL-711358,BlueLine dispatcher
+D2,2026-08-27,"1641 Alder Court, Suite E",MONITORING,Crew recorded moisture readings at the wet perimeter; equipment remained at site.,BlueLine technician
+D3,2026-08-29,"1641 Alder Court, Suite E",DRYING_COLLECTION,Truck BL-21 collected equipment against service ticket BL-711358,BlueLine dispatcher

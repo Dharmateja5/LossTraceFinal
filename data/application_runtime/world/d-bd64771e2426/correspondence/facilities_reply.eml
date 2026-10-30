@@ -1,0 +1,12 @@
+From: facilities@d-bd64771e2426.example
+To: claims@samplemutual.example
+Subject: CLM-26-722023 - Site arrangements and records
+Date: Tue, 01 Sep 2026 16:00:00 +0000
+Message-ID: <eeb6f74fb2491b5da9c4e18e@mail.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Accounts exported the billing PDFs from the service job folder. The deploymen=
+t sheet records the machine delivery and collection dates. Both document file=
+s were included in the accounts export.

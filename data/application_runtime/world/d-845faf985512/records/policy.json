@@ -1,0 +1,45 @@
+{
+  "coverage_parts": {
+    "BPP": {
+      "limit": "150000.00"
+    },
+    "BUILDING": {
+      "limit": "500000.00"
+    }
+  },
+  "currency": "USD",
+  "deductible": {
+    "allocation_order": [
+      "BUILDING",
+      "BPP"
+    ],
+    "amount": "5000.00",
+    "basis": "PER_OCCURRENCE"
+  },
+  "effective": "2026-01-01",
+  "endorsement_schedule": [
+    {
+      "artifact_id": "a-b3e878c8397a2cb8",
+      "effective": "2026-01-01",
+      "expires": "2027-01-01",
+      "form_id": "WD01",
+      "policy_id": "CP-26-493250",
+      "sha256": "33ae93c6971fde79b7415c5de072aa5e1ed6b3f3fdd8ec6df3a15f10df5c9d2e",
+      "version": "2026-01"
+    }
+  ],
+  "expires": "2027-01-01",
+  "named_insured": "Fernhollow Dental Group LLC",
+  "op_basis": "ACCEPTED_BUILDING_REPAIR_ONLY",
+  "policy_id": "CP-26-493250",
+  "rounding": "ROUND_HALF_UP",
+  "sublimits": {
+    "MOLD": {
+      "basis": "PER_OCCURRENCE",
+      "coverage_part": "BUILDING",
+      "form_id": "WD01",
+      "limit": "25000.00"
+    }
+  },
+  "valuation_basis": "VERIFIED_LIKE_KIND_REPLACEMENT_COST"
+}

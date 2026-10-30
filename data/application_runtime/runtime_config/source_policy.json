@@ -1,0 +1,56 @@
+{
+  "field_overrides": [
+    {
+      "integrity": "UNTRUSTED",
+      "pointer": "/notes/*/text",
+      "source_class": "carrier_claim_record"
+    }
+  ],
+  "source_classes": {
+    "carrier_claim_record": {
+      "confidentiality": "PII",
+      "integrity": "TRUSTED"
+    },
+    "carrier_ledger": {
+      "confidentiality": "PII",
+      "integrity": "TRUSTED"
+    },
+    "carrier_policy": {
+      "confidentiality": "INTERNAL",
+      "integrity": "TRUSTED"
+    },
+    "carrier_policy_record": {
+      "confidentiality": "INTERNAL",
+      "integrity": "TRUSTED"
+    },
+    "contractor_email": {
+      "confidentiality": "INTERNAL",
+      "integrity": "UNTRUSTED"
+    },
+    "contractor_estimate": {
+      "confidentiality": "INTERNAL",
+      "integrity": "UNTRUSTED"
+    },
+    "external_report": {
+      "confidentiality": "INTERNAL",
+      "integrity": "UNTRUSTED"
+    },
+    "independent_cost_review": {
+      "confidentiality": "INTERNAL",
+      "integrity": "UNTRUSTED"
+    },
+    "insured_email": {
+      "confidentiality": "PII",
+      "integrity": "UNTRUSTED"
+    },
+    "insured_record": {
+      "confidentiality": "PII",
+      "integrity": "UNTRUSTED"
+    },
+    "vendor_invoice": {
+      "confidentiality": "INTERNAL",
+      "integrity": "UNTRUSTED"
+    }
+  },
+  "version": "SOURCE-1.5"
+}

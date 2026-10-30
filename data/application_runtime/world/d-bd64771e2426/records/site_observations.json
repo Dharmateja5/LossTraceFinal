@@ -1,0 +1,18 @@
+{
+  "authored_by": "Harlan Rowe",
+  "claim_id": "CLM-26-722023",
+  "inspection_id": "INSP-722023",
+  "observations": [
+    {
+      "id": "P1",
+      "location": "loss rooms",
+      "text": "Water impact at lower finishes."
+    },
+    {
+      "id": "P2",
+      "location": "wall opening",
+      "text": "Affected electrical devices visible at opened wet wall."
+    }
+  ],
+  "observed_at": "2026-08-23"
+}

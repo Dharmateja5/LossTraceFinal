@@ -1,0 +1,10 @@
+[project]
+name = "losstrace"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp[cli]>=2.3.0",
+    "openai>=3.26.1",
+    "pydantic>=2,<3",
+    "pymupdf>=1.28.2",
+]

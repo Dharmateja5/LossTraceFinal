@@ -1,0 +1,45 @@
+{
+  "coverage_parts": {
+    "BPP": {
+      "limit": "150000.00"
+    },
+    "BUILDING": {
+      "limit": "500000.00"
+    }
+  },
+  "currency": "USD",
+  "deductible": {
+    "allocation_order": [
+      "BUILDING",
+      "BPP"
+    ],
+    "amount": "5000.00",
+    "basis": "PER_OCCURRENCE"
+  },
+  "effective": "2026-01-01",
+  "endorsement_schedule": [
+    {
+      "artifact_id": "a-2bdf12784fbe320c",
+      "effective": "2026-01-01",
+      "expires": "2027-01-01",
+      "form_id": "WD01",
+      "policy_id": "CP-26-545141",
+      "sha256": "da9be6324be23a5ab8c551852dbcf8c248fccb3e67ebb5b4ac8e6d3b786654d0",
+      "version": "2026-01"
+    }
+  ],
+  "expires": "2027-01-01",
+  "named_insured": "Northbend Imaging Center LLC",
+  "op_basis": "ACCEPTED_BUILDING_REPAIR_ONLY",
+  "policy_id": "CP-26-545141",
+  "rounding": "ROUND_HALF_UP",
+  "sublimits": {
+    "MOLD": {
+      "basis": "PER_OCCURRENCE",
+      "coverage_part": "BUILDING",
+      "form_id": "WD01",
+      "limit": "25000.00"
+    }
+  },
+  "valuation_basis": "VERIFIED_LIKE_KIND_REPLACEMENT_COST"
+}

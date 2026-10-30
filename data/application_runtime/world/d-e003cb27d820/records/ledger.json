@@ -1,0 +1,15 @@
+{
+  "claim_id": "CLM-26-591035",
+  "coverage_used": {
+    "BPP": "0.00",
+    "BUILDING": "0.00"
+  },
+  "deductible_satisfied": "0.00",
+  "outstanding_reserve": "150000.00",
+  "paid_to_date": "0.00",
+  "payments": [],
+  "sublimit_used": {
+    "MOLD": "0.00"
+  },
+  "version": 1
+}

@@ -1,0 +1,8 @@
+entry_id,recorded_date,location,record_kind,observation,author
+F1,2026-08-29,Dispensary,FIELD_OBSERVATION,Ceiling infill and junction: deformed panels and wet junction cover. Temporary cover after plumbing,Marisol Vega
+F2,2026-08-29,Preparation room,FIELD_OBSERVATION,Floor at old rack positions: soft adhesive below taped footprint. Raised rack pads dry,Marisol Vega
+F3,2026-08-29,Double doors,FIELD_OBSERVATION,Floor control strip: firm bond beyond threshold. Dry stopping point,Marisol Vega
+F4,2026-08-29,Dispensary base unit,FIELD_OBSERVATION,Bottom and end laminate: swelling and laminate separation. Level worktop retained,Marisol Vega
+D1,2026-08-23,"1607 Alder Court, Suite C",DRYING_DELIVERY,Truck BL-21 delivered extraction and drying equipment; service ticket BL-711164,BlueLine dispatcher
+D2,2026-08-25,"1607 Alder Court, Suite C",MONITORING,Crew recorded moisture readings at the wet perimeter; equipment remained at site.,BlueLine technician
+D3,2026-08-27,"1607 Alder Court, Suite C",DRYING_COLLECTION,Truck BL-21 collected equipment against service ticket BL-711164,BlueLine dispatcher

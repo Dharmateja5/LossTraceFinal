@@ -1,0 +1,33 @@
+{
+  "allowed_action_types": [
+    "RECORD_SETTLEMENT_PAYMENT"
+  ],
+  "authority_threshold": "250000.00",
+  "authorized_writer": "DeterministicExecutor",
+  "budget": {
+    "max_elapsed_seconds": 120,
+    "max_followup_rounds": 1,
+    "max_iterations": 12,
+    "max_tokens": 30000,
+    "max_tool_calls": 40
+  },
+  "currency": "USD",
+  "grant_issuer": "DeterministicAuthorizationEngine",
+  "human_review_on": [
+    "INSUFFICIENT",
+    "CONFLICTING",
+    "CONDITIONAL",
+    "MULTIPLE_OPTIONS",
+    "AUTHORITY_THRESHOLD_EXCEEDED",
+    "BUDGET_EXHAUSTED",
+    "AMBIGUOUS_COVERAGE",
+    "POTENTIAL_DENIAL"
+  ],
+  "runtime_roots": [
+    "world",
+    "manifests",
+    "runtime_config"
+  ],
+  "state_paths_are_complete": true,
+  "version": "POLICY-1.5"
+}

@@ -1,0 +1,28 @@
+{
+  "as_of_date": "2026-08-31",
+  "assigned_adjuster": "ADJ-021",
+  "case_version": 3,
+  "claim_id": "CLM-26-902082",
+  "claim_status": "OPEN",
+  "date_of_loss": "2026-08-15",
+  "notes": [
+    {
+      "date": "2026-08-16",
+      "id": "N1",
+      "text": "Insured reports overnight water release."
+    },
+    {
+      "date": "2026-08-21",
+      "id": "N2",
+      "text": "Site survey received."
+    },
+    {
+      "date": "2026-08-27",
+      "id": "N3",
+      "text": "Repair proposal received."
+    }
+  ],
+  "policy_id": "CP-26-535850",
+  "reported_cause": "Plumbing supply-line water release",
+  "submitted_amount": "150000.00"
+}

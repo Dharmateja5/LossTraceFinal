@@ -1,0 +1,8 @@
+entry_id,recorded_date,location,record_kind,observation,author
+F1,2026-08-28,Equipment store,FIELD_OBSERVATION,Inlet wall and low shelf: sharp wet line and swollen substrate. Prior stock photo available,Harlan Rowe
+F2,2026-08-28,Inner alcoves,FIELD_OBSERVATION,Gypsum at wall bases: soft core at inner returns. Outer comparison holes dry,Harlan Rowe
+F3,2026-08-28,Alcove corridor,FIELD_OBSERVATION,Vinyl seam route: open seams and water under backing. Sample V-2 matches installed floor,Harlan Rowe
+F4,2026-08-28,Reception storage,FIELD_OBSERVATION,Cabinet control run: straight dry panels. Matching color alone is not location,Harlan Rowe
+D1,2026-08-22,"1590 Alder Court, Suite B",DRYING_DELIVERY,Truck BL-21 delivered extraction and drying equipment; service ticket BL-711067,BlueLine dispatcher
+D2,2026-08-24,"1590 Alder Court, Suite B",MONITORING,Crew recorded moisture readings at the wet perimeter; equipment remained at site.,BlueLine technician
+D3,2026-08-26,"1590 Alder Court, Suite B",DRYING_COLLECTION,Truck BL-21 collected equipment against service ticket BL-711067,BlueLine dispatcher

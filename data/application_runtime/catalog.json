@@ -1,0 +1,80 @@
+{
+  "catalog_version": "1.5",
+  "claims": [
+    {
+      "claim_id": "CLM-26-876731",
+      "manifest_path": "manifests/d-11cd8b30545e.json",
+      "runtime_id": "d-11cd8b30545e"
+    },
+    {
+      "claim_id": "CLM-26-402550",
+      "manifest_path": "manifests/d-13b90651932a.json",
+      "runtime_id": "d-13b90651932a"
+    },
+    {
+      "claim_id": "CLM-26-348735",
+      "manifest_path": "manifests/d-1c0e8f8cf952.json",
+      "runtime_id": "d-1c0e8f8cf952"
+    },
+    {
+      "claim_id": "CLM-26-366148",
+      "manifest_path": "manifests/d-1c529458963a.json",
+      "runtime_id": "d-1c529458963a"
+    },
+    {
+      "claim_id": "CLM-26-902082",
+      "manifest_path": "manifests/d-2480128fd3ba.json",
+      "runtime_id": "d-2480128fd3ba"
+    },
+    {
+      "claim_id": "CLM-26-475747",
+      "manifest_path": "manifests/d-429db31a7663.json",
+      "runtime_id": "d-429db31a7663"
+    },
+    {
+      "claim_id": "CLM-26-437673",
+      "manifest_path": "manifests/d-66a7f93a0203.json",
+      "runtime_id": "d-66a7f93a0203"
+    },
+    {
+      "claim_id": "CLM-26-678338",
+      "manifest_path": "manifests/d-6a5412ed28d4.json",
+      "runtime_id": "d-6a5412ed28d4"
+    },
+    {
+      "claim_id": "CLM-26-786122",
+      "manifest_path": "manifests/d-7e489a93c064.json",
+      "runtime_id": "d-7e489a93c064"
+    },
+    {
+      "claim_id": "CLM-26-585247",
+      "manifest_path": "manifests/d-845faf985512.json",
+      "runtime_id": "d-845faf985512"
+    },
+    {
+      "claim_id": "CLM-26-677883",
+      "manifest_path": "manifests/d-bcb80bda77e7.json",
+      "runtime_id": "d-bcb80bda77e7"
+    },
+    {
+      "claim_id": "CLM-26-722023",
+      "manifest_path": "manifests/d-bd64771e2426.json",
+      "runtime_id": "d-bd64771e2426"
+    },
+    {
+      "claim_id": "CLM-26-385027",
+      "manifest_path": "manifests/d-dcdf138ff805.json",
+      "runtime_id": "d-dcdf138ff805"
+    },
+    {
+      "claim_id": "CLM-26-591035",
+      "manifest_path": "manifests/d-e003cb27d820.json",
+      "runtime_id": "d-e003cb27d820"
+    },
+    {
+      "claim_id": "CLM-26-822494",
+      "manifest_path": "manifests/d-ecb3ae6cfda3.json",
+      "runtime_id": "d-ecb3ae6cfda3"
+    }
+  ]
+}

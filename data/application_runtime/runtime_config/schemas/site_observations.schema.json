@@ -1,0 +1,56 @@
+{
+  "additionalProperties": false,
+  "properties": {
+    "authored_by": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "claim_id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "inspection_id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "observations": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "location": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "text": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "location",
+          "text"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "observed_at": {
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "type": "string"
+    }
+  },
+  "required": [
+    "claim_id",
+    "inspection_id",
+    "authored_by",
+    "observed_at",
+    "observations"
+  ],
+  "type": "object"
+}

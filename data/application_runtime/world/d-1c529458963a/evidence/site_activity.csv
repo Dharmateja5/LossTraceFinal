@@ -1,0 +1,8 @@
+entry_id,recorded_date,location,record_kind,observation,author
+F1,2026-08-27,Clean corridor,FIELD_OBSERVATION,Service-spine ceiling: deformed grid and wet infill. Continuous marked run,Owen Patel
+F2,2026-08-27,Preparation rooms,FIELD_OBSERVATION,Partition bases: saturated cleanable assemblies. Modular breaks retained,Owen Patel
+F3,2026-08-27,Service loading route,FIELD_OBSERVATION,Protected corridor intersection: dry passage used for removal. Temporary protection specified,Owen Patel
+F4,2026-08-27,Perimeter offices,FIELD_OBSERVATION,Control openings: dry wall cores and intact floors. Separate feeds retained,Owen Patel
+D1,2026-08-21,"1573 Alder Court, Suite F",DRYING_DELIVERY,Truck BL-21 delivered extraction and drying equipment; service ticket BL-710970,BlueLine dispatcher
+D2,2026-08-23,"1573 Alder Court, Suite F",MONITORING,Crew recorded moisture readings at the wet perimeter; equipment remained at site.,BlueLine technician
+D3,2026-08-25,"1573 Alder Court, Suite F",DRYING_COLLECTION,Truck BL-21 collected equipment against service ticket BL-710970,BlueLine dispatcher

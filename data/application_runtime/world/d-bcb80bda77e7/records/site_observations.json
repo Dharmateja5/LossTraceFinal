@@ -1,0 +1,18 @@
+{
+  "authored_by": "Marisol Vega",
+  "claim_id": "CLM-26-677883",
+  "inspection_id": "INSP-677883",
+  "observations": [
+    {
+      "id": "P1",
+      "location": "loss rooms",
+      "text": "Water impact at lower finishes."
+    },
+    {
+      "id": "P2",
+      "location": "wall opening",
+      "text": "Affected electrical devices visible at opened wet wall."
+    }
+  ],
+  "observed_at": "2026-08-24"
+}

@@ -1,0 +1,201 @@
+{
+  "additionalProperties": false,
+  "properties": {
+    "coverage_parts": {
+      "additionalProperties": false,
+      "properties": {
+        "BPP": {
+          "additionalProperties": false,
+          "properties": {
+            "limit": {
+              "pattern": "^(0|[1-9][0-9]*)\\.[0-9]{2}$",
+              "type": "string"
+            }
+          },
+          "required": [
+            "limit"
+          ],
+          "type": "object"
+        },
+        "BUILDING": {
+          "additionalProperties": false,
+          "properties": {
+            "limit": {
+              "pattern": "^(0|[1-9][0-9]*)\\.[0-9]{2}$",
+              "type": "string"
+            }
+          },
+          "required": [
+            "limit"
+          ],
+          "type": "object"
+        }
+      },
+      "required": [
+        "BUILDING",
+        "BPP"
+      ],
+      "type": "object"
+    },
+    "currency": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "deductible": {
+      "additionalProperties": false,
+      "properties": {
+        "allocation_order": {
+          "items": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "amount": {
+          "pattern": "^(0|[1-9][0-9]*)\\.[0-9]{2}$",
+          "type": "string"
+        },
+        "basis": {
+          "minLength": 1,
+          "type": "string"
+        }
+      },
+      "required": [
+        "amount",
+        "basis",
+        "allocation_order"
+      ],
+      "type": "object"
+    },
+    "effective": {
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "type": "string"
+    },
+    "endorsement_schedule": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "artifact_id": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "effective": {
+            "format": "date",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+            "type": "string"
+          },
+          "expires": {
+            "format": "date",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+            "type": "string"
+          },
+          "form_id": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "policy_id": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "sha256": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "version": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "required": [
+          "form_id",
+          "version",
+          "policy_id",
+          "effective",
+          "expires",
+          "artifact_id",
+          "sha256"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "expires": {
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "type": "string"
+    },
+    "named_insured": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "op_basis": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "policy_id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "rounding": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "sublimits": {
+      "additionalProperties": false,
+      "properties": {
+        "MOLD": {
+          "additionalProperties": false,
+          "properties": {
+            "basis": {
+              "minLength": 1,
+              "type": "string"
+            },
+            "coverage_part": {
+              "minLength": 1,
+              "type": "string"
+            },
+            "form_id": {
+              "minLength": 1,
+              "type": "string"
+            },
+            "limit": {
+              "pattern": "^(0|[1-9][0-9]*)\\.[0-9]{2}$",
+              "type": "string"
+            }
+          },
+          "required": [
+            "limit",
+            "basis",
+            "coverage_part",
+            "form_id"
+          ],
+          "type": "object"
+        }
+      },
+      "required": [
+        "MOLD"
+      ],
+      "type": "object"
+    },
+    "valuation_basis": {
+      "minLength": 1,
+      "type": "string"
+    }
+  },
+  "required": [
+    "policy_id",
+    "named_insured",
+    "effective",
+    "expires",
+    "currency",
+    "coverage_parts",
+    "deductible",
+    "sublimits",
+    "endorsement_schedule",
+    "valuation_basis",
+    "rounding",
+    "op_basis"
+  ],
+  "type": "object"
+}

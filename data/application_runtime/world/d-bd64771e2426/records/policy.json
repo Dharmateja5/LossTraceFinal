@@ -1,0 +1,45 @@
+{
+  "coverage_parts": {
+    "BPP": {
+      "limit": "150000.00"
+    },
+    "BUILDING": {
+      "limit": "500000.00"
+    }
+  },
+  "currency": "USD",
+  "deductible": {
+    "allocation_order": [
+      "BUILDING",
+      "BPP"
+    ],
+    "amount": "5000.00",
+    "basis": "PER_OCCURRENCE"
+  },
+  "effective": "2026-01-01",
+  "endorsement_schedule": [
+    {
+      "artifact_id": "a-b11a3e8e265d905e",
+      "effective": "2026-01-01",
+      "expires": "2027-01-01",
+      "form_id": "WD01",
+      "policy_id": "CP-26-285334",
+      "sha256": "0c995f62658d61151da1e141788839c89a8bc3fc6ab36f0a0a7b53ab33f14c3e",
+      "version": "2026-01"
+    }
+  ],
+  "expires": "2027-01-01",
+  "named_insured": "Pine Ridge Pediatric Dentistry LLC",
+  "op_basis": "ACCEPTED_BUILDING_REPAIR_ONLY",
+  "policy_id": "CP-26-285334",
+  "rounding": "ROUND_HALF_UP",
+  "sublimits": {
+    "MOLD": {
+      "basis": "PER_OCCURRENCE",
+      "coverage_part": "BUILDING",
+      "form_id": "WD01",
+      "limit": "25000.00"
+    }
+  },
+  "valuation_basis": "VERIFIED_LIKE_KIND_REPLACEMENT_COST"
+}

@@ -1,0 +1,45 @@
+{
+  "coverage_parts": {
+    "BPP": {
+      "limit": "150000.00"
+    },
+    "BUILDING": {
+      "limit": "500000.00"
+    }
+  },
+  "currency": "USD",
+  "deductible": {
+    "allocation_order": [
+      "BUILDING",
+      "BPP"
+    ],
+    "amount": "5000.00",
+    "basis": "PER_OCCURRENCE"
+  },
+  "effective": "2026-01-01",
+  "endorsement_schedule": [
+    {
+      "artifact_id": "a-3e563f2d7b63bf6f",
+      "effective": "2026-01-01",
+      "expires": "2027-01-01",
+      "form_id": "WD01",
+      "policy_id": "CP-26-321232",
+      "sha256": "746f342903f0f696cd2297297c04b8c0242e00224cc2c901917581b9d9a3528d",
+      "version": "2026-01"
+    }
+  ],
+  "expires": "2027-01-01",
+  "named_insured": "Cypress Point Endoscopy LLC",
+  "op_basis": "ACCEPTED_BUILDING_REPAIR_ONLY",
+  "policy_id": "CP-26-321232",
+  "rounding": "ROUND_HALF_UP",
+  "sublimits": {
+    "MOLD": {
+      "basis": "PER_OCCURRENCE",
+      "coverage_part": "BUILDING",
+      "form_id": "WD01",
+      "limit": "25000.00"
+    }
+  },
+  "valuation_basis": "VERIFIED_LIKE_KIND_REPLACEMENT_COST"
+}

@@ -1,0 +1,45 @@
+{
+  "coverage_parts": {
+    "BPP": {
+      "limit": "250000.00"
+    },
+    "BUILDING": {
+      "limit": "750000.00"
+    }
+  },
+  "currency": "USD",
+  "deductible": {
+    "allocation_order": [
+      "BUILDING",
+      "BPP"
+    ],
+    "amount": "25000.00",
+    "basis": "PER_OCCURRENCE"
+  },
+  "effective": "2026-01-01",
+  "endorsement_schedule": [
+    {
+      "artifact_id": "a-d2ec7a947010f34e",
+      "effective": "2026-01-01",
+      "expires": "2027-01-01",
+      "form_id": "WD01",
+      "policy_id": "CP-26-515626",
+      "sha256": "acbadd85a58b2b520bcb30b5eb88dbae553a8a687d225cd9d2b442acfe964a4d",
+      "version": "2026-01"
+    }
+  ],
+  "expires": "2027-01-01",
+  "named_insured": "Lakeshore Surgical Center LLC",
+  "op_basis": "ACCEPTED_BUILDING_REPAIR_ONLY",
+  "policy_id": "CP-26-515626",
+  "rounding": "ROUND_HALF_UP",
+  "sublimits": {
+    "MOLD": {
+      "basis": "PER_OCCURRENCE",
+      "coverage_part": "BUILDING",
+      "form_id": "WD01",
+      "limit": "25000.00"
+    }
+  },
+  "valuation_basis": "VERIFIED_LIKE_KIND_REPLACEMENT_COST"
+}

@@ -1,0 +1,8 @@
+entry_id,recorded_date,location,record_kind,observation,author
+F1,2026-08-24,Exercise entrance,FIELD_OBSERVATION,Resilient plank joints: raised joints and released adhesive. Backing matches spare LVT,Marisol Vega
+F2,2026-08-24,Staff cupboard,FIELD_OBSERVATION,Back and end panels: expanded lower substrate. Tall dry cabinet retained,Marisol Vega
+F3,2026-08-24,Side threshold,FIELD_OBSERVATION,Original floor transition: firm dry adhesive. Stone sample is thicker,Marisol Vega
+F4,2026-08-24,Exercise wall,FIELD_OBSERVATION,Low outlet boxes: deposits and moist cable entries. Four wet positions tagged,Marisol Vega
+D1,2026-08-18,"1522 Alder Court, Suite C",DRYING_DELIVERY,Truck BL-21 delivered extraction and drying equipment; service ticket BL-710679,BlueLine dispatcher
+D2,2026-08-20,"1522 Alder Court, Suite C",MONITORING,Crew recorded moisture readings at the wet perimeter; equipment remained at site.,BlueLine technician
+D3,2026-08-22,"1522 Alder Court, Suite C",DRYING_COLLECTION,Truck BL-21 collected equipment against service ticket BL-710679,BlueLine dispatcher

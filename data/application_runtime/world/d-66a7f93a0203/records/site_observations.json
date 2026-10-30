@@ -1,0 +1,18 @@
+{
+  "authored_by": "Owen Patel",
+  "claim_id": "CLM-26-437673",
+  "inspection_id": "INSP-437673",
+  "observations": [
+    {
+      "id": "P1",
+      "location": "loss rooms",
+      "text": "Water impact at lower finishes."
+    },
+    {
+      "id": "P2",
+      "location": "wall opening",
+      "text": "Fungal-type growth on opened wet material."
+    }
+  ],
+  "observed_at": "2026-08-22"
+}

@@ -1,0 +1,6 @@
+entry_id,recorded_date,location,record_kind,observation,author
+F1,2026-08-26,Wash station,FIELD_OBSERVATION,Wet finish modules: soft backing and raised edge. Both sketches include this area,Naomi Brooks
+F2,2026-08-26,Control passage,FIELD_OBSERVATION,Outlet route and ceiling: wet devices below dry equipment feed. Independent isolation available,Naomi Brooks
+F3,2026-08-26,Procedure entrance,FIELD_OBSERVATION,Continuous trim and floor joint: wet modules meet sound modules. Different joint treatment on sketches,Naomi Brooks
+F4,2026-08-26,Dry assembly end,FIELD_OBSERVATION,Comparison opening: dry backing and secure fixings. Room geometry unchanged,Naomi Brooks
+S1,2026-09-04,Procedure room,SHUTDOWN_CALENDAR,Construction-sequence field blank. Neither proposal signed in the supplied calendar record.,Imaging operations manager

@@ -1,0 +1,2 @@
+# Additive UI dependency only. Do not merge into the frozen backend manifests.
+streamlit==1.58.0

@@ -1,0 +1,8 @@
+entry_id,recorded_date,location,record_kind,observation,author
+F1,2026-08-25,Utility alcove,FIELD_OBSERVATION,Backing beneath older paint: dark softened timber beside pale wet cut. Age of concealed change not measured,Elliot Chen
+F2,2026-08-25,Exam-room return,FIELD_OBSERVATION,Fresh gypsum opening: wet bright core. First opened at this visit,Elliot Chen
+F3,2026-08-25,Corridor ceiling,FIELD_OBSERVATION,Stained infill panel: pale ring outside darker center. No dated panel photograph,Elliot Chen
+F4,2026-08-25,Plant position,FIELD_OBSERVATION,Motor housing lower vents: dull deposits below fresh water mark. Earlier test sheet not supplied,Elliot Chen
+D1,2026-08-19,"1539 Alder Court, Suite D",DRYING_DELIVERY,Truck BL-21 delivered extraction and drying equipment; service ticket BL-710776,BlueLine dispatcher
+D2,2026-08-21,"1539 Alder Court, Suite D",MONITORING,Crew recorded moisture readings at the wet perimeter; equipment remained at site.,BlueLine technician
+D3,2026-08-23,"1539 Alder Court, Suite D",DRYING_COLLECTION,Truck BL-21 collected equipment against service ticket BL-710776,BlueLine dispatcher

@@ -1,0 +1,42 @@
+# Private config and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# Development environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
+
+# Local and recorded investigation results (public test build is separate)
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+data/dashboard_runs/
+data/demo_databases/
+
+# Distribution archives, logs and user-local backups
+*.zip
+*.log
+*.tmp
+*_backup*/
+ui_backup_*/
+.DS_Store
+Thumbs.db

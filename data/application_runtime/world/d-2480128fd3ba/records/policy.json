@@ -1,0 +1,54 @@
+{
+  "coverage_parts": {
+    "BPP": {
+      "limit": "150000.00"
+    },
+    "BUILDING": {
+      "limit": "500000.00"
+    }
+  },
+  "currency": "USD",
+  "deductible": {
+    "allocation_order": [
+      "BUILDING",
+      "BPP"
+    ],
+    "amount": "10000.00",
+    "basis": "PER_OCCURRENCE"
+  },
+  "effective": "2026-01-01",
+  "endorsement_schedule": [
+    {
+      "artifact_id": "a-442c722099d7ba0e",
+      "effective": "2026-01-01",
+      "expires": "2027-01-01",
+      "form_id": "WD01",
+      "policy_id": "CP-26-535850",
+      "sha256": "364d5cbeda4b347e94ff39de5b6097a810c19809f6ad1fb54077e125a2fdd64f",
+      "version": "2026-01"
+    },
+    {
+      "artifact_id": "a-0c0d3c4c506b85e4",
+      "effective": "2026-01-01",
+      "expires": "2027-01-01",
+      "form_id": "WA04",
+      "policy_id": "CP-26-535850",
+      "sha256": "30bb66281e12b943d909c11d3e9ac44309266764e2f6de03d88691745f5f1e2a",
+      "version": "2026-01"
+    }
+  ],
+  "expires": "2027-01-01",
+  "named_insured": "Harborview Diagnostics LLC",
+  "op_basis": "ACCEPTED_BUILDING_REPAIR_ONLY",
+  "policy_id": "CP-26-535850",
+  "rounding": "ROUND_HALF_UP",
+  "sublimits": {
+    "MOLD": {
+      "basis": "PER_OCCURRENCE",
+      "coverage_part": "BUILDING",
+      "form_id": "WD01",
+      "limit": "25000.00"
+    }
+  },
+  "valuation_basis": "VERIFIED_LIKE_KIND_REPLACEMENT_COST"
+}

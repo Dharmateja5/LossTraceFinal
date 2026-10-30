@@ -1,0 +1,18 @@
+{
+  "authored_by": "Elliot Chen",
+  "claim_id": "CLM-26-348735",
+  "inspection_id": "INSP-348735",
+  "observations": [
+    {
+      "id": "P1",
+      "location": "loss rooms",
+      "text": "Water impact at lower finishes."
+    },
+    {
+      "id": "P2",
+      "location": "wall opening",
+      "text": "Affected electrical devices visible at opened wet wall."
+    }
+  ],
+  "observed_at": "2026-08-30"
+}

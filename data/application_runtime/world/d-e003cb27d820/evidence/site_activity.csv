@@ -1,0 +1,8 @@
+entry_id,recorded_date,location,record_kind,observation,author
+F1,2026-09-01,Instrument-cleaning bay,FIELD_OBSERVATION,Washable panels and backing: wet gypsum below retained grid. Spare stock number matched,Owen Patel
+F2,2026-09-01,Treatment passage,FIELD_OBSERVATION,Resilient floor seams: opened seams and wet backing. Level seams in stock photo,Owen Patel
+F3,2026-09-01,Plant compartment,FIELD_OBSERVATION,Control housings and toe-kicks: water entry and expanded substrate. Matching replacement capacities,Owen Patel
+F4,2026-09-01,Records boundary,FIELD_OBSERVATION,Wall and floor controls: firm dry backing and adhesion. Dry route temporarily protected,Owen Patel
+D1,2026-08-26,"1658 Alder Court, Suite F",DRYING_DELIVERY,Truck BL-21 delivered extraction and drying equipment; service ticket BL-711455,BlueLine dispatcher
+D2,2026-08-28,"1658 Alder Court, Suite F",MONITORING,Crew recorded moisture readings at the wet perimeter; equipment remained at site.,BlueLine technician
+D3,2026-08-30,"1658 Alder Court, Suite F",DRYING_COLLECTION,Truck BL-21 collected equipment against service ticket BL-711455,BlueLine dispatcher

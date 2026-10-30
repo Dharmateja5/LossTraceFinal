@@ -1,0 +1,28 @@
+{
+  "alternative_group": "repair-methods",
+  "alternative_options": [
+    "targeted",
+    "assembly"
+  ],
+  "economic_event_id": "<claim_id>/<component_id>",
+  "estimate_submission_id": "printed estimate number",
+  "evidence": "manifest artifact_id, locator_key and sha256; independent cost-review plus physical-condition section",
+  "invoice_submission_id": "source filename stem",
+  "non_alternative_group_and_option": "empty strings",
+  "op_component_id": "repair-op",
+  "remediation_order": [
+    "north rooms",
+    "south rooms"
+  ],
+  "repair_component_id": "repair-<printed line ID>",
+  "repair_physical_locator": "SEC.INTERIOR_SCOPE",
+  "repair_submission_event_id": "<claim_id>/repair",
+  "service_component_ids": [
+    "mitigation",
+    "equipment",
+    "remediation-1",
+    "remediation-2"
+  ],
+  "unresolved_attribution_support": "when current wetting overlaps earlier conditions, include dated maintenance entries and active-cause report with the condition survey",
+  "version": "1.5"
+}

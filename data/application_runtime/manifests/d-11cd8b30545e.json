@@ -1,0 +1,753 @@
+{
+  "artifacts": [
+    {
+      "artifact_id": "a-079cedb5624d3dc0",
+      "authored_by": "billing@vendor.example",
+      "document_date": "2026-09-03",
+      "locators": {
+        "ATTACHMENT.invoice_02.pdf": {
+          "filename": "invoice_02.pdf",
+          "sha256": "86cbea3d4a498ddc3c75b4078a9d2aa966e0757dfdc6be264f16972e21a06f18"
+        },
+        "EMAIL.BODY": {
+          "mime_part": "text/plain"
+        }
+      },
+      "media_type": "message/rfc822",
+      "path": "world/d-11cd8b30545e/correspondence/invoice_2.eml",
+      "sha256": "e3f0b2c670f3cd93f5ace1aea63d90c9a54c0bb1fa228e915aced21d68d65bcd",
+      "source_class": "contractor_email"
+    },
+    {
+      "artifact_id": "a-29d08dc91d20146b",
+      "authored_by": "Calloway-Vance Restoration LLC",
+      "document_date": "2026-08-31",
+      "locators": {
+        "SEC.ESTIMATE_INFORMATION": {
+          "anchor_text": "Estimate Information",
+          "page": 1
+        },
+        "SEC.ESTIMATE_SUMMARY": {
+          "anchor_text": "Estimate Summary",
+          "page": 1
+        },
+        "SEC.LINE_L1": {
+          "anchor_text": "Line L1",
+          "page": 1
+        },
+        "SEC.LINE_L2": {
+          "anchor_text": "Line L2",
+          "page": 1
+        },
+        "SEC.LINE_L3": {
+          "anchor_text": "Line L3",
+          "page": 1
+        },
+        "SEC.LINE_L4": {
+          "anchor_text": "Line L4",
+          "page": 1
+        },
+        "SEC.LINE_L5": {
+          "anchor_text": "Line L5",
+          "page": 1
+        },
+        "SEC.LINE_L6": {
+          "anchor_text": "Line L6",
+          "page": 1
+        },
+        "SEC.LINE_L7": {
+          "anchor_text": "Line L7",
+          "page": 1
+        },
+        "SEC.TERMS": {
+          "anchor_text": "Terms",
+          "page": 1
+        }
+      },
+      "media_type": "application/pdf",
+      "path": "world/d-11cd8b30545e/valuation/repair_estimate.pdf",
+      "sha256": "804bd2aa15c1fe2438e8bcbdd72d7ac615e0ce9e644809cb1dede7c977d22446",
+      "source_class": "contractor_estimate"
+    },
+    {
+      "artifact_id": "a-2dedaf6dc8dbbef4",
+      "authored_by": "Sample Mutual",
+      "document_date": "2026-01-01",
+      "locators": {
+        "SEC.REMEDIATION_LIMIT": {
+          "anchor_text": "Remediation Limit",
+          "page": 1
+        },
+        "SEC.SCHEDULE": {
+          "anchor_text": "Schedule",
+          "page": 1
+        }
+      },
+      "media_type": "application/pdf",
+      "path": "world/d-11cd8b30545e/policy/form_WD01.pdf",
+      "sha256": "c65308b7be7856dce30eff3d8d02d0a66af8175465e2d79175981f70e325e06a",
+      "source_class": "carrier_policy"
+    },
+    {
+      "artifact_id": "a-3de72e800f2006f0",
+      "authored_by": "estimates@vendor.example",
+      "document_date": "2026-08-31",
+      "locators": {
+        "ATTACHMENT.repair_estimate.pdf": {
+          "filename": "repair_estimate.pdf",
+          "sha256": "804bd2aa15c1fe2438e8bcbdd72d7ac615e0ce9e644809cb1dede7c977d22446"
+        },
+        "EMAIL.BODY": {
+          "mime_part": "text/plain"
+        }
+      },
+      "media_type": "message/rfc822",
+      "path": "world/d-11cd8b30545e/correspondence/estimate_1.eml",
+      "sha256": "61dc44bf91d4edf9dab7238ad78f33bbbbb2b120dd0a8ef6cf0a8d280096e56a",
+      "source_class": "contractor_email"
+    },
+    {
+      "artifact_id": "a-568b2f7d8a5a6202",
+      "authored_by": "Northstar Equipment Consulting",
+      "document_date": "2026-08-29",
+      "locators": {
+        "SEC.ASSESSMENT_RECORD": {
+          "anchor_text": "Assessment Record",
+          "page": 1
+        },
+        "SEC.CONDITION_AND_REPAIRABILITY": {
+          "anchor_text": "Condition and Repairability",
+          "page": 1
+        },
+        "SEC.PRICING_SCOPE": {
+          "anchor_text": "Pricing Scope",
+          "page": 1
+        },
+        "SEC.TEST_RECORD": {
+          "anchor_text": "Test Record",
+          "page": 1
+        }
+      },
+      "media_type": "application/pdf",
+      "path": "world/d-11cd8b30545e/evidence/equipment_report.pdf",
+      "sha256": "1597103812061c230ef9f1e09fee9c34aa27baf1a7ec3d558bb8bc2d1ab44980",
+      "source_class": "external_report"
+    },
+    {
+      "artifact_id": "a-5951a9e40bbf2cf2",
+      "authored_by": "billing@vendor.example",
+      "document_date": "2026-08-25",
+      "locators": {
+        "ATTACHMENT.invoice_01.pdf": {
+          "filename": "invoice_01.pdf",
+          "sha256": "7f5c6b6d03632b2853e67b3ba23c9893eb4b7599c380ce33ae2295655c44e5b4"
+        },
+        "EMAIL.BODY": {
+          "mime_part": "text/plain"
+        }
+      },
+      "media_type": "message/rfc822",
+      "path": "world/d-11cd8b30545e/correspondence/invoice_1.eml",
+      "sha256": "e1a9521d6de9badc7593e3f580818030c7cd147fd3ef94890c71da826d13939a",
+      "source_class": "contractor_email"
+    },
+    {
+      "artifact_id": "a-5a7180579665d7ff",
+      "authored_by": "facilities@d-11cd8b30545e.example",
+      "document_date": "2026-08-20",
+      "locators": {
+        "EMAIL.BODY": {
+          "mime_part": "text/plain"
+        }
+      },
+      "media_type": "message/rfc822",
+      "path": "world/d-11cd8b30545e/correspondence/notice.eml",
+      "sha256": "203bf7d89ef6662c775983e7799c21f97a67ad445137102a5ec9d7874d9b6d05",
+      "source_class": "insured_email"
+    },
+    {
+      "artifact_id": "a-61351105b8b94948",
+      "authored_by": "Elliot Chen",
+      "document_date": "2026-08-25",
+      "locators": {
+        "SEC.DEMOLITION_SCOPE": {
+          "anchor_text": "Demolition Scope",
+          "page": 1
+        },
+        "SEC.ELECTRICAL_SCOPE": {
+          "anchor_text": "Electrical Scope",
+          "page": 1
+        },
+        "SEC.INSPECTION_RECORD": {
+          "anchor_text": "Inspection Record",
+          "page": 3
+        },
+        "SEC.INTERIOR_SCOPE": {
+          "anchor_text": "Interior Scope",
+          "page": 1
+        },
+        "SEC.MICROBIAL_OBSERVATIONS": {
+          "anchor_text": "Microbial Observations",
+          "page": 1
+        },
+        "SEC.MILLWORK_SCOPE": {
+          "anchor_text": "Millwork Scope",
+          "page": 1
+        },
+        "SEC.MITIGATION_NECESSITY": {
+          "anchor_text": "Mitigation Necessity",
+          "page": 1
+        },
+        "SEC.PRIOR_CONDITIONS": {
+          "anchor_text": "Prior Conditions",
+          "page": 1
+        },
+        "SEC.ROOM_OBSERVATION_REGISTER": {
+          "anchor_text": "Room Observation Register",
+          "page": 2
+        },
+        "SEC.TRADE_COORDINATION": {
+          "anchor_text": "Trade Coordination",
+          "page": 2
+        },
+        "SEC.VISIT_DETAILS": {
+          "anchor_text": "Visit Details",
+          "page": 1
+        }
+      },
+      "media_type": "application/pdf",
+      "path": "world/d-11cd8b30545e/evidence/site_survey.pdf",
+      "sha256": "4dc9a3774a38cf0d28ef85701bb8f842dc11dfa75cc8775542a29bac1d5148e4",
+      "source_class": "external_report"
+    },
+    {
+      "artifact_id": "a-750b8c1e4da5cf07",
+      "authored_by": "Atlantic Equipment Service LLC",
+      "document_date": "2026-09-02",
+      "locators": {
+        "SEC.AMOUNT_DUE": {
+          "anchor_text": "Amount Due",
+          "page": 1
+        },
+        "SEC.BILLING_NOTE": {
+          "anchor_text": "Billing Note",
+          "page": 1
+        },
+        "SEC.INVOICE_INFORMATION": {
+          "anchor_text": "Invoice Information",
+          "page": 1
+        },
+        "SEC.SERVICES": {
+          "anchor_text": "Services",
+          "page": 1
+        }
+      },
+      "media_type": "application/pdf",
+      "path": "world/d-11cd8b30545e/valuation/invoices/invoice_02.pdf",
+      "sha256": "86cbea3d4a498ddc3c75b4078a9d2aa966e0757dfdc6be264f16972e21a06f18",
+      "source_class": "vendor_invoice"
+    },
+    {
+      "artifact_id": "a-7b761094d4790457",
+      "authored_by": "facilities@d-11cd8b30545e.example",
+      "document_date": "2026-09-03",
+      "locators": {
+        "EMAIL.BODY": {
+          "mime_part": "text/plain"
+        }
+      },
+      "media_type": "message/rfc822",
+      "path": "world/d-11cd8b30545e/correspondence/facilities_reply.eml",
+      "sha256": "e8e8e560d02d68d084fc811b5882eaba68a094ac7200b5a71f8ffcdd45b484e9",
+      "source_class": "insured_email"
+    },
+    {
+      "artifact_id": "a-8b2ccdba2e44f249",
+      "authored_by": "BlueLine Mitigation LLC",
+      "document_date": "2026-08-24",
+      "locators": {
+        "SEC.AMOUNT_DUE": {
+          "anchor_text": "Amount Due",
+          "page": 1
+        },
+        "SEC.BILLING_NOTE": {
+          "anchor_text": "Billing Note",
+          "page": 1
+        },
+        "SEC.INVOICE_INFORMATION": {
+          "anchor_text": "Invoice Information",
+          "page": 1
+        },
+        "SEC.SERVICES": {
+          "anchor_text": "Services",
+          "page": 1
+        }
+      },
+      "media_type": "application/pdf",
+      "path": "world/d-11cd8b30545e/valuation/invoices/invoice_01.pdf",
+      "sha256": "7f5c6b6d03632b2853e67b3ba23c9893eb4b7599c380ce33ae2295655c44e5b4",
+      "source_class": "vendor_invoice"
+    },
+    {
+      "artifact_id": "a-8c41efa61434502d",
+      "authored_by": "Sample Mutual",
+      "document_date": "2026-01-01",
+      "locators": {
+        "SEC.ATTACHED_FORMS": {
+          "anchor_text": "Attached Forms",
+          "page": 1
+        },
+        "SEC.CONDITIONS": {
+          "anchor_text": "Conditions",
+          "page": 1
+        },
+        "SEC.COVERED_CAUSES": {
+          "anchor_text": "Covered Causes",
+          "page": 1
+        },
+        "SEC.DECLARATIONS": {
+          "anchor_text": "Declarations",
+          "page": 1
+        },
+        "SEC.DEDUCTIBLE": {
+          "anchor_text": "Deductible",
+          "page": 1
+        },
+        "SEC.VALUATION_BASIS": {
+          "anchor_text": "Valuation Basis",
+          "page": 1
+        }
+      },
+      "media_type": "application/pdf",
+      "path": "world/d-11cd8b30545e/policy/coverage_form.pdf",
+      "sha256": "d2c733c9f1ecad3b00ef9ca913134c34f720dd5e50e8764cbc431fbf82248097",
+      "source_class": "carrier_policy"
+    },
+    {
+      "artifact_id": "a-9fbcd5d1df81dcbc",
+      "authored_by": "Oak Terrace Veterinary Clinic LLC",
+      "document_date": "2026-08-20",
+      "locators": {
+        "ROW.M1": {
+          "record_id": "M1"
+        },
+        "ROW.M2": {
+          "record_id": "M2"
+        }
+      },
+      "media_type": "text/csv",
+      "path": "world/d-11cd8b30545e/evidence/maintenance.csv",
+      "sha256": "c6e8e6df797fc56662b352fcf793b168949e66e53e47bc62e9d2f5534d8fefa5",
+      "source_class": "insured_record"
+    },
+    {
+      "artifact_id": "a-ab13eb377cecac92",
+      "authored_by": "Sample Mutual",
+      "document_date": "2026-08-25",
+      "locators": {
+        "JSON.AUTHORED_BY": {
+          "json_pointer": "/authored_by"
+        },
+        "JSON.CLAIM_ID": {
+          "json_pointer": "/claim_id"
+        },
+        "JSON.INSPECTION_ID": {
+          "json_pointer": "/inspection_id"
+        },
+        "JSON.OBSERVATIONS_0_ID": {
+          "json_pointer": "/observations/0/id"
+        },
+        "JSON.OBSERVATIONS_0_LOCATION": {
+          "json_pointer": "/observations/0/location"
+        },
+        "JSON.OBSERVATIONS_0_TEXT": {
+          "json_pointer": "/observations/0/text"
+        },
+        "JSON.OBSERVATIONS_1_ID": {
+          "json_pointer": "/observations/1/id"
+        },
+        "JSON.OBSERVATIONS_1_LOCATION": {
+          "json_pointer": "/observations/1/location"
+        },
+        "JSON.OBSERVATIONS_1_TEXT": {
+          "json_pointer": "/observations/1/text"
+        },
+        "JSON.OBSERVED_AT": {
+          "json_pointer": "/observed_at"
+        }
+      },
+      "media_type": "application/json",
+      "path": "world/d-11cd8b30545e/records/site_observations.json",
+      "sha256": "ac12f32b010c57daa83018e8bd5b502dcedf5521eec2da6e2605eaf9ae14b7b0",
+      "source_class": "external_report"
+    },
+    {
+      "artifact_id": "a-b64b16b35fac9af2",
+      "authored_by": "Sample Mutual",
+      "document_date": "2026-09-04",
+      "locators": {
+        "JSON.CLAIM_ID": {
+          "json_pointer": "/claim_id"
+        },
+        "JSON.COVERAGE_USED_BPP": {
+          "json_pointer": "/coverage_used/BPP"
+        },
+        "JSON.COVERAGE_USED_BUILDING": {
+          "json_pointer": "/coverage_used/BUILDING"
+        },
+        "JSON.DEDUCTIBLE_SATISFIED": {
+          "json_pointer": "/deductible_satisfied"
+        },
+        "JSON.OUTSTANDING_RESERVE": {
+          "json_pointer": "/outstanding_reserve"
+        },
+        "JSON.PAID_TO_DATE": {
+          "json_pointer": "/paid_to_date"
+        },
+        "JSON.PAYMENTS": {
+          "json_pointer": "/payments"
+        },
+        "JSON.SUBLIMIT_USED_MOLD": {
+          "json_pointer": "/sublimit_used/MOLD"
+        },
+        "JSON.VERSION": {
+          "json_pointer": "/version"
+        }
+      },
+      "media_type": "application/json",
+      "path": "world/d-11cd8b30545e/records/ledger.json",
+      "sha256": "6763bbcfde3bdf9aac1582b6a3c62be7b11cb1d0c2a995a290afd1550705b0df",
+      "source_class": "carrier_ledger"
+    },
+    {
+      "artifact_id": "a-bae6be5b498b70b5",
+      "authored_by": "Granite Property Assessment",
+      "document_date": "2026-09-03",
+      "locators": {
+        "SEC.PRICE_COMPARISON_SCHEDULE": {
+          "anchor_text": "Price Comparison Schedule",
+          "page": 2
+        },
+        "SEC.REVIEWED_COORDINATION": {
+          "anchor_text": "Reviewed Coordination",
+          "page": 2
+        },
+        "SEC.REVIEWED_INVOICE_01": {
+          "anchor_text": "Reviewed invoice_01",
+          "page": 2
+        },
+        "SEC.REVIEWED_INVOICE_02": {
+          "anchor_text": "Reviewed invoice_02",
+          "page": 2
+        },
+        "SEC.REVIEWED_LINE_L1": {
+          "anchor_text": "Reviewed Line L1",
+          "page": 1
+        },
+        "SEC.REVIEWED_LINE_L2": {
+          "anchor_text": "Reviewed Line L2",
+          "page": 1
+        },
+        "SEC.REVIEWED_LINE_L3": {
+          "anchor_text": "Reviewed Line L3",
+          "page": 1
+        },
+        "SEC.REVIEWED_LINE_L4": {
+          "anchor_text": "Reviewed Line L4",
+          "page": 1
+        },
+        "SEC.REVIEWED_LINE_L5": {
+          "anchor_text": "Reviewed Line L5",
+          "page": 1
+        },
+        "SEC.REVIEWED_LINE_L6": {
+          "anchor_text": "Reviewed Line L6",
+          "page": 1
+        },
+        "SEC.REVIEWED_LINE_L7": {
+          "anchor_text": "Reviewed Line L7",
+          "page": 2
+        },
+        "SEC.REVIEW_ASSIGNMENT": {
+          "anchor_text": "Review Assignment",
+          "page": 1
+        }
+      },
+      "media_type": "application/pdf",
+      "path": "world/d-11cd8b30545e/evidence/cost_review.pdf",
+      "sha256": "81d3e8578aec1a8c27e803542a84a44d01dbd85452f64f37b9bb3e1a3ae366eb",
+      "source_class": "independent_cost_review"
+    },
+    {
+      "artifact_id": "a-cdceea3ec31a82eb",
+      "authored_by": "Oak Terrace Veterinary Clinic LLC",
+      "document_date": "2026-09-03",
+      "locators": {
+        "ROW.D1": {
+          "id_column": "entry_id",
+          "record_id": "D1"
+        },
+        "ROW.D2": {
+          "id_column": "entry_id",
+          "record_id": "D2"
+        },
+        "ROW.D3": {
+          "id_column": "entry_id",
+          "record_id": "D3"
+        },
+        "ROW.F1": {
+          "id_column": "entry_id",
+          "record_id": "F1"
+        },
+        "ROW.F2": {
+          "id_column": "entry_id",
+          "record_id": "F2"
+        },
+        "ROW.F3": {
+          "id_column": "entry_id",
+          "record_id": "F3"
+        },
+        "ROW.F4": {
+          "id_column": "entry_id",
+          "record_id": "F4"
+        }
+      },
+      "media_type": "text/csv",
+      "path": "world/d-11cd8b30545e/evidence/site_activity.csv",
+      "sha256": "2ea0a0996757d33a711d5558fcddfc03510d50a20ba29cd1aa62bcc980f728fb",
+      "source_class": "insured_record"
+    },
+    {
+      "artifact_id": "a-db26dfc40a17b1df",
+      "authored_by": "Tidewell Plumbing & Mechanical",
+      "document_date": "2026-08-20",
+      "locators": {
+        "SEC.CAUSE_ASSESSMENT": {
+          "anchor_text": "Cause Assessment",
+          "page": 1
+        },
+        "SEC.SERVICE_RECORD": {
+          "anchor_text": "Service Record",
+          "page": 1
+        },
+        "SEC.WORK_NOTES": {
+          "anchor_text": "Work Notes",
+          "page": 1
+        }
+      },
+      "media_type": "application/pdf",
+      "path": "world/d-11cd8b30545e/evidence/service_report.pdf",
+      "sha256": "43cd9eee0f030e29e320c93082e82fb5c05959f12432091510b7235a9bda8c9d",
+      "source_class": "external_report"
+    },
+    {
+      "artifact_id": "a-e577e4f63e4d33dd",
+      "authored_by": "Sample Mutual",
+      "document_date": "2026-09-04",
+      "locators": {
+        "JSON.ASSIGNED_ADJUSTER": {
+          "json_pointer": "/assigned_adjuster"
+        },
+        "JSON.AS_OF_DATE": {
+          "json_pointer": "/as_of_date"
+        },
+        "JSON.CASE_VERSION": {
+          "json_pointer": "/case_version"
+        },
+        "JSON.CLAIM_ID": {
+          "json_pointer": "/claim_id"
+        },
+        "JSON.CLAIM_STATUS": {
+          "json_pointer": "/claim_status"
+        },
+        "JSON.DATE_OF_LOSS": {
+          "json_pointer": "/date_of_loss"
+        },
+        "JSON.NOTES_0_DATE": {
+          "json_pointer": "/notes/0/date"
+        },
+        "JSON.NOTES_0_ID": {
+          "json_pointer": "/notes/0/id"
+        },
+        "JSON.NOTES_0_TEXT": {
+          "json_pointer": "/notes/0/text"
+        },
+        "JSON.NOTES_1_DATE": {
+          "json_pointer": "/notes/1/date"
+        },
+        "JSON.NOTES_1_ID": {
+          "json_pointer": "/notes/1/id"
+        },
+        "JSON.NOTES_1_TEXT": {
+          "json_pointer": "/notes/1/text"
+        },
+        "JSON.NOTES_2_DATE": {
+          "json_pointer": "/notes/2/date"
+        },
+        "JSON.NOTES_2_ID": {
+          "json_pointer": "/notes/2/id"
+        },
+        "JSON.NOTES_2_TEXT": {
+          "json_pointer": "/notes/2/text"
+        },
+        "JSON.POLICY_ID": {
+          "json_pointer": "/policy_id"
+        },
+        "JSON.REPORTED_CAUSE": {
+          "json_pointer": "/reported_cause"
+        },
+        "JSON.SUBMITTED_AMOUNT": {
+          "json_pointer": "/submitted_amount"
+        }
+      },
+      "media_type": "application/json",
+      "path": "world/d-11cd8b30545e/records/claim.json",
+      "sha256": "f166e921f3a79043e8eef3fa3ed82fc76278542c5dfcf38c6c68bfea22865f74",
+      "source_class": "carrier_claim_record"
+    },
+    {
+      "artifact_id": "a-e701371881b03c6b",
+      "authored_by": "Sample Mutual",
+      "document_date": "2026-09-04",
+      "locators": {
+        "JSON.COVERAGE_PARTS_BPP_LIMIT": {
+          "json_pointer": "/coverage_parts/BPP/limit"
+        },
+        "JSON.COVERAGE_PARTS_BUILDING_LIMIT": {
+          "json_pointer": "/coverage_parts/BUILDING/limit"
+        },
+        "JSON.CURRENCY": {
+          "json_pointer": "/currency"
+        },
+        "JSON.DEDUCTIBLE_ALLOCATION_ORDER_0": {
+          "json_pointer": "/deductible/allocation_order/0"
+        },
+        "JSON.DEDUCTIBLE_ALLOCATION_ORDER_1": {
+          "json_pointer": "/deductible/allocation_order/1"
+        },
+        "JSON.DEDUCTIBLE_AMOUNT": {
+          "json_pointer": "/deductible/amount"
+        },
+        "JSON.DEDUCTIBLE_BASIS": {
+          "json_pointer": "/deductible/basis"
+        },
+        "JSON.EFFECTIVE": {
+          "json_pointer": "/effective"
+        },
+        "JSON.ENDORSEMENT_SCHEDULE_0_ARTIFACT_ID": {
+          "json_pointer": "/endorsement_schedule/0/artifact_id"
+        },
+        "JSON.ENDORSEMENT_SCHEDULE_0_EFFECTIVE": {
+          "json_pointer": "/endorsement_schedule/0/effective"
+        },
+        "JSON.ENDORSEMENT_SCHEDULE_0_EXPIRES": {
+          "json_pointer": "/endorsement_schedule/0/expires"
+        },
+        "JSON.ENDORSEMENT_SCHEDULE_0_FORM_ID": {
+          "json_pointer": "/endorsement_schedule/0/form_id"
+        },
+        "JSON.ENDORSEMENT_SCHEDULE_0_POLICY_ID": {
+          "json_pointer": "/endorsement_schedule/0/policy_id"
+        },
+        "JSON.ENDORSEMENT_SCHEDULE_0_SHA256": {
+          "json_pointer": "/endorsement_schedule/0/sha256"
+        },
+        "JSON.ENDORSEMENT_SCHEDULE_0_VERSION": {
+          "json_pointer": "/endorsement_schedule/0/version"
+        },
+        "JSON.EXPIRES": {
+          "json_pointer": "/expires"
+        },
+        "JSON.NAMED_INSURED": {
+          "json_pointer": "/named_insured"
+        },
+        "JSON.OP_BASIS": {
+          "json_pointer": "/op_basis"
+        },
+        "JSON.POLICY_ID": {
+          "json_pointer": "/policy_id"
+        },
+        "JSON.ROUNDING": {
+          "json_pointer": "/rounding"
+        },
+        "JSON.SUBLIMITS_MOLD_BASIS": {
+          "json_pointer": "/sublimits/MOLD/basis"
+        },
+        "JSON.SUBLIMITS_MOLD_COVERAGE_PART": {
+          "json_pointer": "/sublimits/MOLD/coverage_part"
+        },
+        "JSON.SUBLIMITS_MOLD_FORM_ID": {
+          "json_pointer": "/sublimits/MOLD/form_id"
+        },
+        "JSON.SUBLIMITS_MOLD_LIMIT": {
+          "json_pointer": "/sublimits/MOLD/limit"
+        },
+        "JSON.VALUATION_BASIS": {
+          "json_pointer": "/valuation_basis"
+        }
+      },
+      "media_type": "application/json",
+      "path": "world/d-11cd8b30545e/records/policy.json",
+      "sha256": "6c4e6fb2206b1b898ce7b48b48db2d6905ef1ddd75fae51767fcbec616c5181b",
+      "source_class": "carrier_policy_record"
+    },
+    {
+      "artifact_id": "a-fe140af347026e84",
+      "authored_by": "Calloway-Vance Restoration LLC",
+      "document_date": "2026-08-31",
+      "locators": {
+        "CELL.L1": {
+          "cell": "F9",
+          "sheet": "Estimate"
+        },
+        "CELL.L2": {
+          "cell": "F10",
+          "sheet": "Estimate"
+        },
+        "CELL.L3": {
+          "cell": "F11",
+          "sheet": "Estimate"
+        },
+        "CELL.L4": {
+          "cell": "F12",
+          "sheet": "Estimate"
+        },
+        "CELL.L5": {
+          "cell": "F13",
+          "sheet": "Estimate"
+        },
+        "CELL.L6": {
+          "cell": "F14",
+          "sheet": "Estimate"
+        },
+        "CELL.L7": {
+          "cell": "F15",
+          "sheet": "Estimate"
+        },
+        "CELL.OP": {
+          "cell": "F19",
+          "sheet": "Estimate"
+        },
+        "CELL.OP_RATE": {
+          "cell": "F18",
+          "sheet": "Estimate"
+        },
+        "CELL.SUBTOTAL": {
+          "cell": "F17",
+          "sheet": "Estimate"
+        },
+        "CELL.TOTAL": {
+          "cell": "F20",
+          "sheet": "Estimate"
+        }
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "path": "world/d-11cd8b30545e/valuation/repair_estimate.xlsx",
+      "sha256": "318e1e606890366b71ba24fcec0ce9402c4d667972ba98d8c9c53e3fbbc3f705",
+      "source_class": "contractor_estimate"
+    }
+  ],
+  "claim_id": "CLM-26-876731",
+  "manifest_version": "1.5",
+  "runtime_id": "d-11cd8b30545e"
+}
